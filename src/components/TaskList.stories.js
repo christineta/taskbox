@@ -1,6 +1,5 @@
 import React from 'react';
 import TaskList from './TaskList';
-import { action } from '@storybook/addon-actions';
 import { taskData, actionsData } from './Task.stories';
 
 export default {
